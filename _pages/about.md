@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-A undergraduate student from ECNU.
+Undergraduate student from ECNU.
 
 [Email](tyflin@outlook.com) / [Github](https://github.com/FloyedLin) 
