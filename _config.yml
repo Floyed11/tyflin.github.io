@@ -23,13 +23,13 @@ repository               : "information"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tongyifan Lin"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Chine"
-  employer         : "Red Brick University"
+  employer         : "ECNU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tyflin@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
